@@ -1,8 +1,5 @@
 // some random words
 export default [
-  'Manishaaa',
-  'loves',
-  'Anyaaa',
   'busy',
   'composition',
   'saddle',
